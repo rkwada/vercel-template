@@ -1,5 +1,7 @@
 # Deploy A React App to Vercel
 
+Name: Rikuo
+
 Click the green ["Use this template"](https://github.com/new?template_name=Deploy-React-App&template_owner=dgilleland) button to generate a copy of this repository on your personal GitHub account.
 
 Clone your new repository to your computer and run `npm i` or `pnpm i` to install the project dependencies.
